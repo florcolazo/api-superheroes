@@ -1,4 +1,4 @@
-# Trabajo Práctico #6 - Superhéroes SPA (Base de Datos NoSQL)
+# Trabajo Práctico 5- Superhéroes SPA (Base de Datos NoSQL)
 
 Este proyecto es una Single Page Application (SPA) para almacenar la información de los personajes de películas y cómics de Marvel y DC. 
 
